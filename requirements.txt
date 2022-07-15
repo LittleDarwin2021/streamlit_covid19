@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+japanmap
+openpyxl
+opencv-python
